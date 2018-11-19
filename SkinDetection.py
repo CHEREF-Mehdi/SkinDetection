@@ -28,9 +28,9 @@ global_result=cv2.bitwise_not(global_mask)
 
 
 #show results
-# cv2.imshow("2.jpg",HSV_result)
-# cv2.imshow("1.jpg",YCrCb_result)
-# cv2.imshow("3.jpg",global_result)
+# cv2.imshow("1_HSV.jpg",HSV_result)
+# cv2.imshow("2_YCbCr.jpg",YCrCb_result)
+# cv2.imshow("3_global_result.jpg",global_result)
 # cv2.imshow("Image.jpg",img)
 cv2.imwrite("1_HSV.jpg",HSV_result)
 cv2.imwrite("2_YCbCr.jpg",YCrCb_result)
