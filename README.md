@@ -18,7 +18,7 @@ The ranges for a skin pixel used in this algorithm are as follows:
 
 # Experimentation 
 
-#### We have tested the perfomence of this algorithm using image from two diffrent dataset :
+#### We have tested the perfomence of this methode using images from two diffrent database :
 
 ##### HGR (Hand Gesture Recognition) Image Database
 
@@ -28,8 +28,18 @@ URL : http://sun.aei.polsl.pl/~mkawulok/gestures/
 
 URL : http://www.sel.eesc.usp.br/sfa/
 
+### In the following images you will see the result of skin detection of each color space separately and then the result of their association
+
 ![alt text](https://github.com/CHEREF-Mehdi/SkinDetection/blob/master/Image/ReadMeImages/result1.png)
 
 ![alt text](https://github.com/CHEREF-Mehdi/SkinDetection/blob/master/Image/ReadMeImages/result2.png)
 
 ![alt text](https://github.com/CHEREF-Mehdi/SkinDetection/blob/master/Image/ReadMeImages/result3.png)
+
+### In the following images you will see the result of skin detection of this methode in the two databases SFA and HGR
+
+![alt text](https://github.com/CHEREF-Mehdi/SkinDetection/blob/master/Image/ReadMeImages/all_detection.png)
+
+
+
+
