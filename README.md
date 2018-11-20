@@ -30,6 +30,6 @@ URL : http://www.sel.eesc.usp.br/sfa/
 
 ![alt text](https://github.com/CHEREF-Mehdi/SkinDetection/blob/master/Image/ReadMeImages/result1.png)
 
-![alt text]()
+![alt text](https://github.com/CHEREF-Mehdi/SkinDetection/blob/master/Image/ReadMeImages/result2.png)
 
-![alt text]()
+![alt text](https://github.com/CHEREF-Mehdi/SkinDetection/blob/master/Image/ReadMeImages/result3.png)
