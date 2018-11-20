@@ -13,7 +13,7 @@ The ranges for a skin pixel used in this algorithm are as follows:
 
 				and
 				
-        0<=Y<=255 and 135<=Cr<=180 and 85<=Cr<=135
+        0<=Y<=255 and 135<=Cr<=180 and 85<=Cb<=135
 	
 
 # Experimentation 
