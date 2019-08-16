@@ -24,9 +24,13 @@ The ranges for a skin pixel used in this algorithm are as follows:
 
 URL : http://sun.aei.polsl.pl/~mkawulok/gestures/
 
+![alt text](https://github.com/CHEREF-Mehdi/SkinDetection/blob/master/Image/ReadMeImages/ROC_HGR.png)
+
 ##### SFA (A Human Skin Image Database based on FERET and AR Facial Images) Image Database
 
 URL : http://www.sel.eesc.usp.br/sfa/
+
+![alt text](https://github.com/CHEREF-Mehdi/SkinDetection/blob/master/Image/ReadMeImages/ROC_SFA.png)
 
 ### In the following images you will see the result of skin detection of each color space separately and then the result of their association
 
