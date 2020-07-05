@@ -15,6 +15,7 @@ The ranges for a skin pixel used in this algorithm are as follows:
 				
         0<=Y<=255 and 135<=Cr<=180 and 85<=Cb<=135
 	
+Please cite this method as follow : D. Dahmani, M. Cheref and S. Larabi, Image and Vision Computing 99 (2020), doi : https://doi.org/10.1016/j.imavis.2020.103925
 
 # Experimentation 
 
