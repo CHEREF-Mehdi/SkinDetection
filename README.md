@@ -41,7 +41,7 @@ URL : http://www.sel.eesc.usp.br/sfa/
 
 ![alt text](https://github.com/CHEREF-Mehdi/SkinDetection/blob/master/Image/ReadMeImages/result3.png)
 
-### In the following images you will see the skin detection results of this methode using imaged from two databases SFA and HGR
+### In the following images you will see the skin detection results of this methode using images from two databases SFA and HGR
 
 ![alt text](https://github.com/CHEREF-Mehdi/SkinDetection/blob/master/Image/ReadMeImages/all_detection.png)
 
