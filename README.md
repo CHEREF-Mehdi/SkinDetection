@@ -33,7 +33,7 @@ URL : http://www.sel.eesc.usp.br/sfa/
 
 ![alt text](https://github.com/CHEREF-Mehdi/SkinDetection/blob/master/Image/ReadMeImages/ROC_SFA.png)
 
-### In the following images you will see the result of skin detection of each color space separately and then the result of their association
+### In the following images you will see the skin detection results of each color space threshold, and the result of their association
 
 ![alt text](https://github.com/CHEREF-Mehdi/SkinDetection/blob/master/Image/ReadMeImages/result1.png)
 
@@ -41,7 +41,7 @@ URL : http://www.sel.eesc.usp.br/sfa/
 
 ![alt text](https://github.com/CHEREF-Mehdi/SkinDetection/blob/master/Image/ReadMeImages/result3.png)
 
-### In the following images you will see the result of skin detection of this methode in the two databases SFA and HGR
+### In the following images you will see the skin detection results of this methode using imaged from two databases SFA and HGR
 
 ![alt text](https://github.com/CHEREF-Mehdi/SkinDetection/blob/master/Image/ReadMeImages/all_detection.png)
 
